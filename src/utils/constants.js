@@ -12,7 +12,7 @@ import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
-export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
+export const logo = 'https://www.freepnglogos.com/uploads/youtube-tv-png/youtube-tv-file-youtube-full-color-icon-svg-wikimedia-commons-27.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
@@ -34,9 +34,9 @@ export const categories = [
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
 
-export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
-export const demoChannelUrl = '/channel/UCmXmlB4-HJytD7wek0Uo97A';
-export const demoVideoUrl = '/video/GDa8kZLNhJ4';
-export const demoChannelTitle = 'JavaScript Mastery';
-export const demoVideoTitle = 'Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI';
-export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png'
+export const demoThumbnailUrl = 'https://i.ytimg.com/vi/LhU90GoF3m0/maxresdefault.jpg';
+export const demoChannelUrl = '/channel/UCVealG546nKLd_wZVgdTC1Q';
+export const demoVideoUrl = 'https://www.youtube.com/watch?v=LhU90GoF3m0&t=415s';
+export const demoChannelTitle = 'Hasan Kılıç';
+export const demoVideoTitle = 'How my days is going in U.S. ? What are my second and third Job?';
+export const demoProfilePicture = 'https://yt3.googleusercontent.com/xSj892e_sgOYuloilW_kfuhMH5vKNKc8KJp1izfnx-PHaOedC48wXOD-bNswYuoCC-bW_sQx=s900-c-k-c0x00ffffff-no-rj'
