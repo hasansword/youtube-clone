@@ -16,7 +16,7 @@ export const logo = 'https://www.freepnglogos.com/uploads/youtube-tv-png/youtube
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'Hasan Sword', icon: <CodeIcon />, },
+  { name: 'Game Of Thrones', icon: <OndemandVideoIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'NextJS', icon: <CodeIcon />, },
@@ -34,9 +34,9 @@ export const categories = [
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
 
-export const demoThumbnailUrl = 'https://i.ytimg.com/vi/LhU90GoF3m0/maxresdefault.jpg';
-export const demoChannelUrl = '/channel/UCVealG546nKLd_wZVgdTC1Q';
-export const demoVideoUrl = 'https://www.youtube.com/watch?v=LhU90GoF3m0&t=415s';
-export const demoChannelTitle = 'Hasan Kılıç';
-export const demoVideoTitle = 'How my days is going in U.S. ? What are my second and third Job?';
-export const demoProfilePicture = 'https://yt3.googleusercontent.com/xSj892e_sgOYuloilW_kfuhMH5vKNKc8KJp1izfnx-PHaOedC48wXOD-bNswYuoCC-bW_sQx=s900-c-k-c0x00ffffff-no-rj'
+export const demoThumbnailUrl = 'https://i.ytimg.com/vi/ZJ1yC3yESLQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB__gCrlM7N0YuyjO9tpabcmaslTA';
+export const demoChannelUrl = '/@gameofthrones';
+export const demoVideoUrl = 'https://www.youtube.com/watch?v=DvhThTSwGYY';
+export const demoChannelTitle = 'Game Of Thrones';
+export const demoVideoTitle = 'Game Of Thrones';
+export const demoProfilePicture = 'https://yt3.googleusercontent.com/ytc/AGIKgqOtZ8jskN6tWpqpUaItLrahAJu7zMFqhz4D_VC_SQ=s176-c-k-c0x00ffffff-no-rj'
